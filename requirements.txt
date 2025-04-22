@@ -1,0 +1,7 @@
+dotenv
+autogen-agentchat==0.5.3
+autogen-ext[openai,azure,mcp,magentic-one,chromadb]
+mcp-server-fetch
+playwright
+aiohttp
+pysqlite3-binary
